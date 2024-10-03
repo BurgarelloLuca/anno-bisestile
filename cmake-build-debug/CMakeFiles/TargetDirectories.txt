@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/uanno bisestile/cmake-build-debug/CMakeFiles/uanno_bisestile.dir
+C:/Users/luca_/CLionProjects/uanno bisestile/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/uanno bisestile/cmake-build-debug/CMakeFiles/rebuild_cache.dir
